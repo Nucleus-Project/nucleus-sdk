@@ -1,0 +1,27 @@
+ITEM.base = "base_uniform"
+
+ITEM.name = "Оранжевая рабочая форма"
+
+ITEM.model = Model("models/props_c17/BriefCase001a.mdl")
+
+ITEM.description = "Стандартная оранжевая форма рабочего."
+
+ITEM.category = "Одежда"
+
+ITEM.flag = "a"
+
+ITEM.overlayPath = ix.util.GetMaterial("vgui/overlays/regular4.png")
+
+ITEM.gendermodel = {
+
+	unisex = "models/hlvr/characters/hazmat_worker/npc/hazmat_worker_citizen.mdl",
+    
+}
+
+ITEM.outfitRestore = "Uniform Variant"
+
+ITEM.bodyGroups = {
+
+    ["Uniform Variant"] = 1
+
+}
