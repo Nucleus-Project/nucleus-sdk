@@ -96,7 +96,27 @@ LANGUAGE = {
 
 	cmdPTReassign = "Reassign PT number index.",
 
-	cmdPTJoin = "Join a Protection Team."
+	cmdPTJoin = "Join a Protection Team.",
+
+
+	wrongTarget = "Wrong target.",
+
+	noPermission = "You have no access to this command.",
+
+	wrongAmount = "Type valid amount for SC!",
+
+	earndSC = "You've got %s sterelize credits.",
+
+	loseSC = "You lose %s sterelize credits.",
+
+	youGivedSC = "You gave  %s sterelize credits to: %s",
+	
+	youTookSC = "You took %s sterelize credits from: %s",
+
+	targetFar = "Your target too far away.",
+
+	shouldBeRestrained = "Your target should be restrained or unconscious!",
+
 
 }
 
