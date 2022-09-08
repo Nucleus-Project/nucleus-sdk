@@ -22,6 +22,8 @@ ITEM.useSound = "food/drink/can.wav"
 
 ITEM.junk = "trash_can"
 
+ITEM.desccolor = Color(49, 222, 91)
+
 ITEM.boosts = {
 
     agility = 2

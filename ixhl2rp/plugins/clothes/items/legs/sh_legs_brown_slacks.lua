@@ -36,3 +36,4 @@ ITEM.iconCam = {
   
   }
   
+  ITEM.desccolor = Color(147, 99, 15)

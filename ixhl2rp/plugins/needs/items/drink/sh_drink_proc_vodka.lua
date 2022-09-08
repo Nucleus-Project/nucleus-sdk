@@ -21,6 +21,8 @@ ITEM.spoil = false
 
 ITEM.useSound = "food/drink/whiskey.wav"
 
+ITEM.desccolor = Color(150, 123, 80)
+
 ITEM.junk = "trash_bottle"
 
 ITEM.capacity = 720

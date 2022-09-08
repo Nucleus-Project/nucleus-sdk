@@ -20,6 +20,8 @@ ITEM.spoil = true
 
 ITEM.useSound = "food/drink/can.wav"
 
+ITEM.desccolor = Color(43, 213, 195)
+
 ITEM.junk = "trash_can"
 
 ITEM.boosts = {

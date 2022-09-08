@@ -19,6 +19,8 @@ ITEM.outfitRestore = "hands"
 ITEM.factionList = {FACTION_CITIZEN, FACTION_REFUGEE, FACTION_CP, FACTION_REBEL, FACTION_WORKERS, FACTION_ADMIN}
 
 
+
+
 ITEM.KeepOnDeath = true
 
 ITEM.desccolor = Color(31, 100, 178)

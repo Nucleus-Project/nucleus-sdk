@@ -26,3 +26,5 @@ ITEM.bodyGroups = {
 	["CP_Armor"] = 3,
 
 }
+
+ITEM.desccolor = Color(46, 62, 112)

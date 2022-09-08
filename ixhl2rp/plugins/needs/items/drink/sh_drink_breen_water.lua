@@ -30,6 +30,8 @@ ITEM.spoil = true
 
 ITEM.useSound = "food/drink/can.wav"
 
+ITEM.desccolor = Color(0, 102, 204)
+
 ITEM.junk = "trash_can"
 
 ITEM.capacity = 380

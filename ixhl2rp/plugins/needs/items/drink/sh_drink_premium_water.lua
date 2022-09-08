@@ -32,6 +32,8 @@ ITEM.spoil = true
 
 ITEM.useSound = "food/drink/can.wav"
 
+ITEM.desccolor = Color(49, 49, 49)
+
 ITEM.capacity = 380
 
 ITEM.restoreStamina = 2

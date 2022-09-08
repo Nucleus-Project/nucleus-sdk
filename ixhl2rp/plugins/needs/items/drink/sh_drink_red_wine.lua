@@ -42,10 +42,11 @@ ITEM.dropSound = {
 
 ITEM.useSound = "food/drink/wine.wav"
 
+ITEM.desccolor = Color(158, 24, 24)
+
 ITEM.junk = "trash_bottle"
 
 ITEM.openedItem = "drink_red_wine_glass" -- the uniqueID e.g what comes after 'sh_' in the file name unless ITEM.uniqueID is specified
 
 ITEM.openRequirementAmount = 4
-
 

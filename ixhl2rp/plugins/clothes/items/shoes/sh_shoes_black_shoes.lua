@@ -24,3 +24,5 @@ ITEM.bodyGroups = {
     ["shoes"] = 9 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 
 }
+
+ITEM.desccolor = Color(61, 61, 61)

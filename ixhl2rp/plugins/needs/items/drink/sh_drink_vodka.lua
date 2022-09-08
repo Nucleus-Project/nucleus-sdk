@@ -31,6 +31,8 @@ ITEM.spoil = false
 
 ITEM.useSound = "food/drink/vodka.wav"
 
+ITEM.desccolor = Color(133, 133, 133)
+
 ITEM.junk = "trash_bottle"
 
 ITEM.capacity = 500
@@ -49,3 +51,4 @@ ITEM.dropSound = {
 ITEM.openedItem = "drink_vodka_glass" -- the uniqueID e.g what comes after 'sh_' in the file name unless ITEM.uniqueID is specified
 
 ITEM.openRequirementAmount = 4
+

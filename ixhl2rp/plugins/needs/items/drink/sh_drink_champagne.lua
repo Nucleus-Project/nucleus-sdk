@@ -42,11 +42,11 @@ ITEM.dropSound = {
 
 ITEM.useSound = "food/drink/champagne.wav"
 
+ITEM.desccolor = Color(232, 212, 45)
+
 ITEM.junk = "trash_bottle"
 
 ITEM.openedItem = "drink_champagne_glass"
 
 ITEM.openRequirementAmount = 3
-
-
 

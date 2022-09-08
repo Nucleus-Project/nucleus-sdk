@@ -21,3 +21,6 @@ ITEM.bodyGroups = {
     ["face"] = 3 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 
 }
+
+ITEM.desccolor = Color(80, 80, 50)
+

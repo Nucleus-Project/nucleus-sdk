@@ -23,11 +23,14 @@ ITEM.isCP = true
 ITEM.runSounds = {[0] = "NPC_Citizen.RunFootstepLeft", [1] = "NPC_Citizen.RunFootstepRight"}
 
 
+
 ITEM.bodyGroups = {
 
     ["CP_Pants"] = 1 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 
 }
+
+ITEM.desccolor = Color(80, 80, 80)
 
 ITEM.iconCam = {
   pos = Vector(-434.53, -501.52, 313.59),

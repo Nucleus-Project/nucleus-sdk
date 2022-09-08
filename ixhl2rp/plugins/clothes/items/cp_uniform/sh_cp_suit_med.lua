@@ -3,7 +3,7 @@ ITEM.name = "Униформа ГО: Медицинская"
 
 ITEM.description = "Стандартная униформа медицинского подразделения Гражданской Обороны."
 
-ITEM.desccolor = Color(65, 109, 196)
+ITEM.desccolor = Color(179, 33, 33)
 
 ITEM.category = "Одежда ГО"
 

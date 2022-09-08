@@ -25,3 +25,6 @@ ITEM.bodyGroups = {
     ["torso"] = 12 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 
 }
+
+ITEM.desccolor = Color(153, 153, 153)
+

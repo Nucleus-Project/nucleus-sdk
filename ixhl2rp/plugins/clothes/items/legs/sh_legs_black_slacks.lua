@@ -35,3 +35,5 @@ ITEM.iconCam = {
   fov = 1.91
 
 }
+
+ITEM.desccolor = Color(42, 42, 42)

@@ -12,3 +12,5 @@ ITEM.price = 150
 ITEM.width = 1
 
 ITEM.height = 1
+
+ITEM.desccolor = Color(110, 109, 109)

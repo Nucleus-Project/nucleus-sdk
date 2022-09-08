@@ -8,15 +8,17 @@ ITEM.description = "Стандартная оранжевая форма раб�
 
 ITEM.category = "Одежда"
 
-ITEM.flag = "a"
-
-ITEM.overlayPath = ix.util.GetMaterial("vgui/overlays/regular4.png")
+ITEM.desccolor = Color(130, 130, 129)
 
 ITEM.gendermodel = {
 
 	unisex = "models/hlvr/characters/hazmat_worker/npc/hazmat_worker_citizen.mdl",
     
 }
+
+ITEM.flag = "a"
+
+ITEM.overlayPath = ix.util.GetMaterial("vgui/overlays/regular4.png")
 
 ITEM.outfitRestore = "Uniform Variant"
 

@@ -19,6 +19,8 @@ ITEM.hunger = 4
 
 ITEM.useSound = "food/drink/beer.wav"
 
+ITEM.desccolor = Color(153, 102, 0)
+
 ITEM.junk = "trash_bottle"
 
 ITEM.boosts = {

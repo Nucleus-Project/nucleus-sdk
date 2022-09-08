@@ -24,4 +24,5 @@ ITEM.bodyGroups = {
 
 }
 
+ITEM.desccolor = Color(153, 93, 17)
 

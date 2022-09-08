@@ -22,6 +22,8 @@ ITEM.boosts = {
 
 ITEM.useSound = "food/drink/coffee.wav"
 
+ITEM.desccolor = Color(0, 72, 255)
+
 ITEM.spoil = false
 
 

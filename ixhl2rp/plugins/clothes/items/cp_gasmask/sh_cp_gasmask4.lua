@@ -33,6 +33,8 @@ ITEM.bodyGroups = {
 
 ITEM.channels = {"tac-3", "tac-5"}
 
+ITEM.desccolor = Color(50, 85, 112)
+
 ITEM.iconCam = {
 
 	pos = Vector(-121.87, 693.62, 216.06),
@@ -42,3 +44,5 @@ ITEM.iconCam = {
 	fov = 1.07
 
   }
+  
+  

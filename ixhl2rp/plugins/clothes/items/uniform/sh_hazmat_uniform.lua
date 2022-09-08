@@ -15,3 +15,5 @@ ITEM.gendermodel = {
 	unisex = "models/hlvr/characters/hazmat_worker/npc/hazmat_worker_citizen.mdl",
     
 }
+
+ITEM.desccolor = Color(213, 219, 24)

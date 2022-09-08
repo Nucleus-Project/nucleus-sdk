@@ -3,7 +3,7 @@ ITEM.name = "Униформа ГО: Штурмовая"
 
 ITEM.description = "Модифицированная униформа специального назначения Гражданской Обороны."
 
-ITEM.desccolor = Color(125, 0, 2)
+ITEM.desccolor = Color(70, 70, 70)
 
 ITEM.category = "Одежда ГО"
 

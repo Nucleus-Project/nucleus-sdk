@@ -45,3 +45,4 @@ ITEM.dropSound = {
 ITEM.openedItem = "drink_jin_glass" -- the uniqueID e.g what comes after 'sh_' in the file name unless ITEM.uniqueID is specified
 
 ITEM.openRequirementAmount = 4
+

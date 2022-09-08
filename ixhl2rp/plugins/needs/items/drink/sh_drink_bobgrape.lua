@@ -22,6 +22,8 @@ ITEM.useSound = "food/drink/can.wav"
 
 ITEM.junk = "trash_can"
 
+ITEM.desccolor = Color(130, 44, 201)
+
 ITEM.capacity = 380
 
 ITEM.dropSound = {

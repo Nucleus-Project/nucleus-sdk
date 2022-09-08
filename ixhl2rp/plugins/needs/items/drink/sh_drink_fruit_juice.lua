@@ -18,6 +18,8 @@ ITEM.spoil = true
 
 ITEM.useSound = "food/drink/bottle.wav"
 
+ITEM.desccolor = Color(162, 103, 48)
+
 ITEM.capacity = 550
 
 ITEM.dropSound = {

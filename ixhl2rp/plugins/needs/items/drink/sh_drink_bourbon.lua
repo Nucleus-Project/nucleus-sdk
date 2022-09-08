@@ -32,12 +32,13 @@ ITEM.spoil = false
 
 ITEM.useSound = "food/drink/bourbon.wav"
 
+ITEM.desccolor = Color(175, 103, 17)
+
 ITEM.openedItem = "drink_bourbon_glass" -- the uniqueID e.g what comes after 'sh_' in the file name unless ITEM.uniqueID is specified
 
 ITEM.openRequirementAmount = 4
 
 ITEM.capacity = 700
-
 
 ITEM.dropSound = {
 

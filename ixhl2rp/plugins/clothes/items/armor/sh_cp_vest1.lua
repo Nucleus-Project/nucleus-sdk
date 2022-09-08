@@ -11,7 +11,6 @@ ITEM.width = 2
 
 ITEM.height = 2
 
-
 ITEM.outfitRestore = "CP_Armor"
 
 ITEM.flag = "Z"
@@ -27,3 +26,6 @@ ITEM.bodyGroups = {
 	["CP_Armor"] = 1,
 
 }
+
+ITEM.desccolor = Color(46, 62, 112)
+

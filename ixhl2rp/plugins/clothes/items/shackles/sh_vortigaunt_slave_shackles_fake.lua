@@ -13,4 +13,3 @@ ITEM.desccolor = Color(66, 165, 61)
 ITEM.bodyGroups = {
     ["shackles"] = 1 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 }
-

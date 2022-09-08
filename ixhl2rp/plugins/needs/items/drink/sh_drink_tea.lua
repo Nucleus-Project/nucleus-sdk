@@ -11,6 +11,8 @@ ITEM.boosts = {
 }
 ITEM.useSound = "food/drink/tea.wav"
 
+ITEM.desccolor = Color(91, 158, 24)
+
 ITEM.spoil = false
 
 ITEM.capacity = 250
