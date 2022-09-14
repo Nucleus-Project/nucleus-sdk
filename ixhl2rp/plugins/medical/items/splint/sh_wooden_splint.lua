@@ -2,13 +2,15 @@
 
 
 
-ITEM.name = "Wooden Splint"
+ITEM.name = "Самодельный шина"
+
+ITEM.description = "Самодельная шина, фиксирующая конечность на месте и естественным образом фиксирующая вывехи и переломы."
+
+ITEM.category = "Медицина"
 
 ITEM.model = Model("models/Items/item_item_crate_chunk02.mdl")
 
-ITEM.description = "A splint made from wood to restrict the leg inplace and naturally set fractures and breaks."
-
-ITEM.category = "Medical"
+ITEM.useSound = "medecine/handsplint.wav" 
 
 ITEM.flag = "m"
 

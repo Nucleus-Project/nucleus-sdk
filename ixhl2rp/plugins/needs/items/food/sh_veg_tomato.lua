@@ -1,29 +1,27 @@
-ITEM.uniqueID = "veg_tomato"
 
 ITEM.name = "Помидор"
 
-ITEM.description = "Обычный помидор, не очень большой."
+ITEM.description = "Красный помидор, томат. Отлично дополняет любое блюдо."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
+ITEM.model = "models/foodnhouseholditems/tomato.mdl"
 
-ITEM.height = 1
+ITEM.useSound = "food/eat/tomato.wav"
 
-ITEM.model = "models/willardnetworks/food/tomato.mdl"
-
-ITEM.cost = 3
-
-ITEM.maxStock = 10
+ITEM.desccolor = Color(187, 54, 41)
 
 ITEM.hunger = 5
 
 ITEM.thirst = 3
 
-ITEM.spoil = true
+ITEM.cost = 3
 
-ITEM.useSound = "food/eat/tomato.wav"
+ITEM.maxStock = 10
 
+ITEM.width = 1
 
+ITEM.height = 1
 
+ITEM.spoil = false
 

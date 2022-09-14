@@ -1,20 +1,23 @@
-ITEM.uniqueID = "xen_pie"
 
-ITEM.name = "Зенианский пирог"
+ITEM.name = "Пирог из Зена"
 
-ITEM.description = "Потусторонняя живность смешалась в теплом пироге."
+ITEM.description = "Внеземной пирог из внеземных ингредиентов. Только умелый повар может приготовить что-то подобное."
 
 ITEM.category = "Еда (Зен)"
+
+ITEM.model = "models/willardnetworks/food/xen_pie.mdl"
+
+ITEM.useSound = "food/eat/biskuit.wav"
+
+ITEM.desccolor = Color(29, 228, 216)
+
+ITEM.hunger = 60
+
+ITEM.thirst = 10
 
 ITEM.width = 1
 
 ITEM.height = 1
-
-ITEM.model = "models/willardnetworks/food/xen_pie.mdl"
-
-ITEM.hunger = 100
-
-ITEM.thirst = 100
 
 ITEM.boosts = {
 
@@ -22,16 +25,10 @@ ITEM.boosts = {
 
 	perception = 5,
 
-	agility = 7,
+	agility = 5,
 
-	intelligence = 7
+	intelligence = 5
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/biskuit.wav"
-
-
 
 

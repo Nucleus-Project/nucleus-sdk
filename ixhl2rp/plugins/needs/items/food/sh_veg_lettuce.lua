@@ -1,27 +1,26 @@
-ITEM.uniqueID = "veg_lettuce"
 
 ITEM.name = "Салат"
 
-ITEM.description = "Небольшая кучка салата."
+ITEM.description = "Лист салата."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
-
-ITEM.height = 1
-
 ITEM.model = "models/willardnetworks/food/lettuce.mdl"
+
+ITEM.useSound = "food/eat/bacon.wav"
+
+ITEM.desccolor = Color(71, 147, 42)
+
+ITEM.hunger = 3
 
 ITEM.cost = 1
 
 ITEM.maxStock = 6
 
-ITEM.hunger = 5
+ITEM.width = 1
 
-ITEM.spoil = true
+ITEM.height = 1
 
-ITEM.useSound = "food/eat/something.wav"
-
-
+ITEM.spoil = false
 
 

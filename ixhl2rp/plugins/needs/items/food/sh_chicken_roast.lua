@@ -1,18 +1,23 @@
-ITEM.uniqueID = "chicken_roast"
 
-ITEM.name = "Жареный цыпленок"
+ITEM.name = "Жареная курица"
 
-ITEM.description = "Лучший куриный ужин, жареный и в кляре. Это, безусловно, возвращает воспоминания о былых временах."
+ITEM.description = "Жареная куриная ножка. Хрустящая корочка отлично сочетается с мягким мясом."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/willardnetworks/food/headcrableg.mdl"
+
+ITEM.useSound = "food/eat/chicken.wav"
+
+ITEM.desccolor = Color(153, 100, 18)
+
+ITEM.hunger = 38
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/headcrableg.mdl"
-
-ITEM.hunger = 40
+ITEM.spoil = true
 
 ITEM.boosts = {
 
@@ -21,11 +26,5 @@ ITEM.boosts = {
 	agility = 1
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/chicken.wav"
-
-
 
 

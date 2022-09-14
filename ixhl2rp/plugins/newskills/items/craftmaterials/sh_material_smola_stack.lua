@@ -26,10 +26,41 @@ ITEM.category = "Материалы"
 
 ITEM.desccolor = Color(0, 93, 255)
 
-ITEM.maxStackSize = 1
+ITEM.maxQuantity = 1
 
 ITEM.is_breakable = false
 
 ITEM.items = {"material_smola", "material_smola", "material_smola", "material_smola", "material_smola"}
+
+
+
+ITEM.functions.Open = {
+
+    name = "Разобрать",
+
+	OnRun = function(itemTable)
+
+		local client = itemTable.player
+
+		local character = client:GetCharacter()
+
+
+
+		for k, v in ipairs(itemTable.items) do
+
+			if (!character:GetInventory():Add(v)) then
+
+				ix.item.Spawn(v, client)
+
+			end
+
+		end
+
+	end
+
+}
+
+
+
 
 

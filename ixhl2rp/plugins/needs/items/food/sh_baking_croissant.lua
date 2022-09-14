@@ -1,31 +1,29 @@
-ITEM.uniqueID = "baking_croissant"
 
 ITEM.name = "Круассан"
 
-ITEM.description = "Знаменитая французская выпечка"
+ITEM.description = "У французов были хорошие вкусы..До вторжения.."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/willardnetworks/food/croissant.mdl"
+
+ITEM.useSound = "food/eat/tost.wav"
+
+ITEM.desccolor = Color(214, 156, 31)
+
+ITEM.hunger = 20
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/croissant.mdl"
-
-ITEM.hunger = 25
+ITEM.spoil = false
 
 ITEM.boosts = {
 
-	agility = 5,
-
-	intelligence = 5
+	intelligence = 2
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/biskuit.wav"
-
 
 
 

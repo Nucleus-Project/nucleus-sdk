@@ -1,28 +1,25 @@
 
 
-ITEM.name = "Обезболивающее"
+ITEM.name = "Анальгин"
+
+ITEM.description = "Простейшее и самое универсальное обезболивающее."
+
+ITEM.category = "Медицина"
 
 ITEM.model = Model("models/willardnetworks/skills/pills1.mdl")
 
-ITEM.description = "Упаковка обезболивающих средств, от слабой боли."
+ITEM.useSound = "medecine/pills.wav" 
 
-ITEM.category = "Медицина"
+ITEM.desccolor = Color(131, 145, 146)
+
+ITEM.maxStackSize = 8
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.useSound = "medecine/pills.wav" 
-
-
-
-
-
-
-ITEM.uses = 2
-
 ITEM.healing = {
 
-    painkillers = 20
+    painkillers = 15
 
 }

@@ -1,29 +1,24 @@
-ITEM.uniqueID = "fruit_berries"
 
-ITEM.name = "Ягодки"
+ITEM.name = "Ягоды"
 
-ITEM.description = "Горсть вкуснейших ягод."
+ITEM.description = "Гроздь сладких ягод."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
-
-ITEM.height = 1
-
 ITEM.model = "models/willardnetworks/food/berries01.mdl"
 
-ITEM.cost = 4
+ITEM.useSound = "food/eat/grape.wav"
 
-ITEM.maxStock = 5
+ITEM.desccolor = Color(180, 54, 69)
 
 ITEM.hunger = 5
 
 ITEM.thirst = 5
 
-ITEM.spoil = true
+ITEM.width = 1
 
-ITEM.useSound = "food/eat/grape.wav"
+ITEM.height = 1
 
-
+ITEM.spoil = false
 
 

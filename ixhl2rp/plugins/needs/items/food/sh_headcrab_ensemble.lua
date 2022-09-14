@@ -1,18 +1,23 @@
-ITEM.uniqueID = "headcrab_ensemble"
 
-ITEM.name = "Мясо Хедкраба с всякой всячиной"
+ITEM.name = "Заправленное мясо хедкраба"
 
-ITEM.description = "Приготовленный хедкраб, смешанный с разными ингредиентами.."
+ITEM.description = "Приготовленное мясо хедкраба с множеством специй. Пахнет очень вкусно."
 
-ITEM.category = "Еда"
+ITEM.category = "Еда (Зен)"
+
+ITEM.model = "models/willardnetworks/food/canned_food3.mdl"
+
+ITEM.useSound = "food/eat/bacon.wav"
+
+ITEM.desccolor = Color(155, 79, 55)
+
+ITEM.hunger = 55
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/canned_food3.mdl"
-
-ITEM.hunger = 60
+ITEM.spoil = true
 
 ITEM.boosts = {
 
@@ -23,11 +28,6 @@ ITEM.boosts = {
 	intelligence = 2
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/bacon.wav"
-
 
 
 

@@ -1,25 +1,23 @@
-ITEM.uniqueID = "fruit_watermelon_slice"
 
-ITEM.name = "Кусочек арбуза"
+ITEM.name = "Долька арбуза"
 
-ITEM.description = "Очень удобная долька для употребления."
+ITEM.description = "Прекрасная долька арбуза."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
-
-ITEM.height = 1
-
 ITEM.model = "models/willardnetworks/food/watermelon_slice.mdl"
+
+ITEM.desccolor = Color(117, 155, 55)
+
+ITEM.useSound = "food/eat/watermelon.wav"
 
 ITEM.hunger = 8
 
 ITEM.thirst = 10
 
-ITEM.spoil = true
+ITEM.width = 1
 
-ITEM.useSound = "food/eat/watermelon.wav"
+ITEM.height = 1
 
-
-
+ITEM.spoil = false
 

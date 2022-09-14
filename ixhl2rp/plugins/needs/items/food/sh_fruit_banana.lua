@@ -1,23 +1,21 @@
-ITEM.uniqueID = "fruit_banana"
 
 ITEM.name = "Банан"
 
-ITEM.description = "Очисти и ешь."
+ITEM.description = "Жёлтый банан, почистите и ешьте."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/willardnetworks/food/bananna.mdl"
+
+ITEM.useSound = "food/eat/banana.wav"
+
+ITEM.desccolor = Color(225, 210, 59)
+
+ITEM.hunger = 15
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/bananna.mdl"
-
-ITEM.hunger = 15
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/banana.wav"
-
-
-
+ITEM.spoil = false
 

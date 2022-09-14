@@ -23,3 +23,8 @@ ITEM.openedItem = "tool_metalbench" -- the uniqueID e.g what comes after 'sh_' i
 ITEM.openRequirementAmount = 1
 
 ITEM.openRequirement = "tool_toolkit" -- same desc as above
+
+
+
+
+

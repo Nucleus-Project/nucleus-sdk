@@ -1,35 +1,28 @@
-ITEM.uniqueID = "baking_bagel"
 
-ITEM.name = "Бейгл"
+ITEM.name = "Пончик"
 
-ITEM.description = "Тебе понравится, как он тает в твоем рту. М-м-м.."
+ITEM.description = "Круглый кусочек приготовленного теста с дыркой по центру. Немного суховат."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/foodnhouseholditems/bagel2.mdl"
+
+ITEM.useSound = "food/eat/biskuit.wav"
+
+ITEM.desccolor = Color(214, 156, 31)
+
+ITEM.hunger = 12
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/bagel2.mdl"
-
-ITEM.hunger = 35
+ITEM.spoil = false
 
 ITEM.boosts = {
 
-	strength = 2,
-
-	perception = 5,
-
-	agility = 3,
-
-	intelligence = 5
+	intelligence = 1
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/biskuit.wav"
-
-
 
 

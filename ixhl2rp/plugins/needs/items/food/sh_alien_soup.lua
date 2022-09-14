@@ -1,20 +1,25 @@
 
-
 ITEM.name = "Миска с супом из инопланетного мяса"
 
 ITEM.description = "Миска с супом из инопланетного мяса. Довольно густой и пахнет вкусно."
 
 ITEM.category = "Еда (Зен)"
 
-ITEM.width = 1
-
-ITEM.height = 1
-
 ITEM.model = "models/willardnetworks/food/stew1.mdl"
+
+ITEM.useSound = "food/eat/soup.wav"
+
+ITEM.desccolor = Color(215, 160, 77)
 
 ITEM.hunger = 40
 
 ITEM.thirst = 20
+
+ITEM.width = 1
+
+ITEM.height = 1
+
+ITEM.spoil = true
 
 ITEM.boosts = {
 
@@ -25,12 +30,4 @@ ITEM.boosts = {
 	intelligence = 2
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "npc/barnacle/barnacle_crunch2.wav"
-
-ITEM.desccolor = Color(215, 160, 77)
-
-
 

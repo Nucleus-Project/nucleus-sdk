@@ -16,7 +16,7 @@ ITEM.colorAppendix = {["red"] = "Свяжитесь с Администраци�
 
 ITEM.desccolor = Color(26, 120, 37)
 
-ITEM.maxStackSize = 1
+ITEM.maxQuantity = 1
 
 
 

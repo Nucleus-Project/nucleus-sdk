@@ -1,33 +1,28 @@
-ITEM.uniqueID = "headcrab_skewer"
 
-ITEM.name = "Острый Хэдкраб на вертеле"
+ITEM.name = "Хедкраб на палочке"
 
-ITEM.description = "Хорошо покрошенные дольки Хэдкраба на вертеле. Очень вкусно и необычно!"
+ITEM.description = "Небольшой шашлычок из хедкраба на палочке."
 
-ITEM.category = "Еда"
+ITEM.category = "Еда (Зен)"
+
+ITEM.model = "models/willardnetworks/food/meatskewer.mdl"
+
+ITEM.useSound = "food/eat/burger.wav"
+
+ITEM.desccolor = Color(155, 79, 55)
+
+ITEM.hunger = 8
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/meatskewer.mdl"
-
-ITEM.hunger = 35
+ITEM.spoil = false
 
 ITEM.boosts = {
 
-	perception = 1,
-
-	agility = 2,
-
-	intelligence = 2
+	agility = 1
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/something.wav"
-
-
 
 

@@ -50,3 +50,50 @@ ITEM.openedItem = "drink_champagne_glass"
 
 ITEM.openRequirementAmount = 3
 
+
+
+ITEM.functions.Share = {
+
+    name = "Разлить по бокалам",
+	
+	icon = "tab/inventory/icon16/share.png",
+
+    OnRun = function(item)
+
+        local client = item.player
+
+        local character = item.player:GetCharacter()
+
+        local inventory = character:GetInventory()
+
+        
+
+        client:EmitSound("food/drink/champagne_pouring.wav")
+
+
+
+        -- Spawn the opened item if it exists
+
+		local requirementAmount = item.openRequirementAmount or 1
+
+        if (item.openedItem) then
+
+            local openedItemName = ix.item.list[item.openedItem] and ix.item.list[item.openedItem].name or item.openedItem
+
+            if (!inventory:Add(item.openedItem, requirementAmount)) then
+
+                client:NotifyLocalized("Вам нужно "..requirementAmount.." места в рюкзаке для трех бокалов.")
+
+				return
+
+            end
+
+            
+
+            client:NotifyLocalized("Вы налили "..item.name.." и получили "..openedItemName)
+
+        end
+
+    end
+
+}

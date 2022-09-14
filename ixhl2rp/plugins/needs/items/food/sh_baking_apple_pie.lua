@@ -1,34 +1,33 @@
-ITEM.uniqueID = "baking_apple_pie"
 
 ITEM.name = "Яблочный пирог"
 
-ITEM.description = "Пирог с яблочным вареньем внутри."
+ITEM.description = "Пирог с начинкой из яблок. Как мило."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/willardnetworks/food/pie.mdl"
+
+ITEM.useSound = "food/eat/biskuit.wav"
+
+ITEM.desccolor = Color(201, 191, 31)
+
+ITEM.hunger = 50
 
 ITEM.width = 2
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/pie.mdl"
-
-ITEM.hunger = 50
+ITEM.spoil = true
 
 ITEM.boosts = {
 
-	strength = 3,
+	perception = 2,
 
-	perception = 4,
+	agility = 1,
 
-	agility = 3,
-
-	intelligence = 5
+	intelligence = 1
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/sandwich.wav"
 
 
 

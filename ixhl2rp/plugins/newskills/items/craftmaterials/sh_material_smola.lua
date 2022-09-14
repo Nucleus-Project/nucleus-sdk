@@ -14,7 +14,7 @@ ITEM.category = "Материалы"
 
 ITEM.desccolor = Color(0, 93, 255)
 
-ITEM.maxStackSize = 5
+ITEM.maxQuantity = 5
 
 ITEM.is_breakable = false
 

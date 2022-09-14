@@ -1,18 +1,23 @@
-ITEM.uniqueID = "misc_bean_casserole"
 
-ITEM.name = "Подогретая фасоль"
+ITEM.name = "Бобовая похлёбка"
 
-ITEM.description = "Фасоль, которая была приготовлена в микроволновке. Вкусный запах и готово к употреблению."
+ITEM.description = "Сытная бобовая похлёбка."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/willardnetworks/food/meatysoup2.mdl"
+
+ITEM.useSound = "food/eat/soup.wav"
+
+ITEM.desccolor = Color(148, 89, 26)
+
+ITEM.hunger = 45
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/meatysoup2.mdl"
-
-ITEM.hunger = 50
+ITEM.spoil = true
 
 ITEM.boosts = {
 
@@ -21,11 +26,5 @@ ITEM.boosts = {
 	intelligence = 3
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/bean.wav"
-
-
 
 

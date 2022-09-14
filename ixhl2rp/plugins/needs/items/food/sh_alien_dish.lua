@@ -1,35 +1,33 @@
-ITEM.uniqueID = "alien_dish"
 
-ITEM.name = "Инопланетное мясо с приправами"
+ITEM.name = "Миска нарезки из инопланетного мяса"
 
-ITEM.description = "Тарелка с мясом из какой-то твари из Зена с приправами"
+ITEM.description = "Миска с нарезкой инопланетного мяса разного вида. Все это обильно заправлено различными специями. Выглядит очень аппетитно."
 
-ITEM.category = "Еда"
+ITEM.category = "Еда (Зен)"
+
+ITEM.model = "models/willardnetworks/food/canned_food4.mdl"
+
+ITEM.useSound = "food/eat/chicken.wav"
+
+ITEM.desccolor = Color(215, 160, 77)
+
+ITEM.hunger = 50
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/canned_food4.mdl"
-
-ITEM.hunger = 60
-
-
-
-
-
+ITEM.spoil = true
 
 ITEM.boosts = {
 
-	strength = 3,
+	strength = 4,
 
-	agility = 3,
+	agility = 2,
 
-	intelligence = 4
+	intelligence = 2
 
 }
 
-ITEM.spoil = true
 
-ITEM.useSound = "food/eat/chicken.wav"
 

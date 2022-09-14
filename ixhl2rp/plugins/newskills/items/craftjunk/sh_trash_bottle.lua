@@ -14,3 +14,29 @@ ITEM.empty = "material_glass"
 
 ITEM.desccolor = Color(94, 94, 94)
 
+
+
+ITEM.functions.Broke = {
+
+    name = "Разбить",
+
+	OnRun = function(item)
+
+	if item.empty then
+
+			local inv = item.player:GetCharacter():GetInventory()
+
+			item.player:EmitSound(item.emitsound)
+
+			inv:Add(item.empty)
+
+			end
+
+	end
+
+}
+
+
+
+
+

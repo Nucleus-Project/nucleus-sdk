@@ -1,29 +1,29 @@
-ITEM.uniqueID = "fruit_pineapple"
 
 ITEM.name = "Ананас"
 
-ITEM.description = "Их редко можно встретить в наши дни."
+ITEM.description = "Редкий в наши дни."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
-
-ITEM.height = 2
-
 ITEM.model = "models/willardnetworks/food/pineapple.mdl"
+
+ITEM.useSound = "food/eat/pineapple.wav"
+
+ITEM.desccolor = Color(222, 222, 31)
+
+ITEM.hunger = 30
+
+ITEM.thirst = 25
 
 ITEM.cost = 20
 
 ITEM.maxStock = 2
 
-ITEM.hunger = 15
+ITEM.width = 1
 
-ITEM.thirst = 20
+ITEM.height = 2
 
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/pineapple.wav"
-
+ITEM.spoil = false
 
 
 

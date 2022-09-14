@@ -1,29 +1,27 @@
-ITEM.uniqueID = "misc_baked_potato"
 
-ITEM.name = "Жареная картошка"
+ITEM.name = "Жареный картофель"
 
-ITEM.description = "Вкусная жареная картошечка"
+ITEM.description = "Жареная картошка готовая к употреблению."
 
 ITEM.category = "Еда"
+
+ITEM.model = "models/willardnetworks/food/baked_potato.mdl"
+
+ITEM.useSound = "food/eat/something.wav"
+
+ITEM.desccolor = Color(123, 82, 19)
+
+ITEM.hunger = 18
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/baked_potato.mdl"
-
-ITEM.hunger = 15
+ITEM.spoil = false
 
 ITEM.boosts = {
 
 	strength = 1
 
 }
-
-ITEM.spoil = true
-
-ITEM.useSound = "food/eat/cheese.wav"
-
-
-
 

@@ -1,27 +1,27 @@
-ITEM.uniqueID = "misc_cheddar"
 
-ITEM.name = "Кусочек сыра чеддер"
+ITEM.name = "Ломтик сыра чеддер"
 
-ITEM.description = "Иногда сыр перестает сниться и становится реальностью."
+ITEM.description = "Кусочек сыра чеддер."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
-
-ITEM.height = 1
-
 ITEM.model = "models/willardnetworks/food/cheesewheel1c.mdl"
+
+ITEM.useSound = "food/eat/cheese.wav"
+
+ITEM.desccolor = Color(214, 184, 34)
+
+ITEM.hunger = 8
 
 ITEM.cost = 15
 
 ITEM.maxStock = 3
 
-ITEM.hunger = 6
+ITEM.width = 1
 
-ITEM.spoil = true
+ITEM.height = 1
 
-ITEM.useSound = "food/eat/cheese.wav"
-
+ITEM.spoil = false
 
 
 

@@ -1,13 +1,14 @@
 
 
+ITEM.name = "Медицинская шина"
 
-ITEM.name = "Aluminium Splint"
+ITEM.description = "Оранжевый многоцелевой бандаж, способный вправлять вывехи и переломы."
+
+ITEM.category = "Медицина"
 
 ITEM.model = Model("models/carlsmei/escapefromtarkov/medical/alusplint.mdl")
 
-ITEM.description = "An orange, multi-use brace able to set fractures and breaks."
-
-ITEM.category = "Medical"
+ITEM.useSound = "medecine/splint.wav" 
 
 ITEM.flag = "m"
 

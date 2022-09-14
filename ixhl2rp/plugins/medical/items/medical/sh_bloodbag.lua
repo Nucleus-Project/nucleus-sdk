@@ -1,22 +1,20 @@
 
 
-ITEM.name = "Набор для переливания крови"
+ITEM.name = "Физраствор"
 
-ITEM.model = Model("models/willardnetworks/skills/bloodbag.mdl")
-
-ITEM.description = "Стоит надеятся, что группа крови универсальная."
+ITEM.description = "Специальный пакет с физраствором."
 
 ITEM.category = "Медицина"
+
+ITEM.model = Model("models/mosi/fallout4/props/aid/ivbag.mdl")
+
+ITEM.useSound = "medecine/bloodbag.wav" 
+
+ITEM.desccolor = Color(131, 145, 146)
 
 ITEM.width = 1
 
 ITEM.height = 1
-
-ITEM.useSound = "medecine/oldbandage.wav" 
-
-
-
-ITEM.uses = 1
 
 ITEM.healing = {
 
@@ -25,3 +23,4 @@ ITEM.healing = {
 	disinfectant = 4
 
 }
+

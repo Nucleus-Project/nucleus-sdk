@@ -1,33 +1,29 @@
-ITEM.uniqueID = "headcrab_fillet"
 
-ITEM.name = "Жареное филе Хэдкраба"
+ITEM.name = "Жареное филе хедкраба"
 
-ITEM.description = "Хедкраб, нарезанный различными дольками. Приятного аппетита!"
+ITEM.description = "Кусок жареного мяса хедкраба."
 
-ITEM.category = "Еда"
+ITEM.category = "Еда (Зен)"
+
+ITEM.model = "models/willardnetworks/food/meat6.mdl"
+
+ITEM.useSound = "food/eat/chicken.wav"
+
+ITEM.desccolor = Color(155, 79, 55)
+
+ITEM.hunger = 25
 
 ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.model = "models/willardnetworks/food/meat6.mdl"
-
-ITEM.hunger = 40
-
-ITEM.boosts = {
-
-	perception = 2,
-
-	agility = 2,
-
-	intelligence = 1
-
-}
 
 ITEM.spoil = true
 
-ITEM.useSound = "food/eat/chicken.wav"
+ITEM.boosts = {
 
+	agility = 2
 
+}
 
 

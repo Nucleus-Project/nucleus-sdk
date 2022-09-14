@@ -1,27 +1,25 @@
-ITEM.uniqueID = "veg_pepper"
 
-ITEM.name = "Красный перец"
+ITEM.name = "Болгарский перец"
 
-ITEM.description = "Кто их выращивает?"
+ITEM.description = "Сладковат и свеж, сделает блюдо гораздо лучше."
 
 ITEM.category = "Еда"
 
-ITEM.width = 1
-
-ITEM.height = 1
-
 ITEM.model = "models/willardnetworks/food/pepper1.mdl"
+
+ITEM.useSound = "food/eat/apple1.wav"
+
+ITEM.desccolor = Color(220, 44, 36)
+
+ITEM.hunger = 5
 
 ITEM.cost = 3
 
 ITEM.maxStock = 4
 
-ITEM.hunger = 5
+ITEM.width = 1
 
-ITEM.spoil = true
+ITEM.height = 1
 
-ITEM.useSound = "food/eat/pepper.mp3"
-
-
-
+ITEM.spoil = false
 
