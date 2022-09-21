@@ -27,6 +27,8 @@ ITEM.boosts = {
 
 }
 
+ITEM.exRender = true
+
 ITEM.spoil = false
 
 ITEM.useSound = "food/drink/vodka.wav"

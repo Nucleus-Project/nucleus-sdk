@@ -26,7 +26,7 @@ ITEM.junk = "trash_bottle"
 
 ITEM.capacity = 560
 
-ITEM.restoreStamina = 4;
+ITEM.restoreStamina = 4
 
 ITEM.dropSound = {
 
@@ -37,4 +37,5 @@ ITEM.dropSound = {
 	"nucleus/ui/carton3.wav",
 
 	
-}		
+}	
+	ITEM.exRender = true

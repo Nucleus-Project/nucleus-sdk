@@ -37,6 +37,7 @@ ITEM.dropSound = {
 
 	
 }	
+ITEM.exRender = true
 
 ITEM.openedItem = "drink_procwhiskey_glass" -- the uniqueID e.g what comes after 'sh_' in the file name unless ITEM.uniqueID is specified
 ITEM.openRequirementAmount = 4

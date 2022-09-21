@@ -42,3 +42,4 @@ function ITEM:GetColor()
     return self:GetData("color", Color(0, 72, 255))
 end
 
+ITEM.exRender = true

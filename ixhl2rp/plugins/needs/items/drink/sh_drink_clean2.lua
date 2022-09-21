@@ -33,3 +33,4 @@ ITEM.dropSound = {
 
 }	
 
+ITEM.exRender = true

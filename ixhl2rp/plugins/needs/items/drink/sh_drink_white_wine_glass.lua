@@ -23,6 +23,7 @@ ITEM.boosts = {
 	intelligence = 3
 
 }
+ITEM.exRender = true
 
 ITEM.spoil = false
 

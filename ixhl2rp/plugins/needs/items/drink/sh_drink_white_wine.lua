@@ -38,6 +38,7 @@ ITEM.dropSound = {
 
 	
 }	
+ITEM.exRender = true
 
 
 ITEM.useSound = "food/drink/wine.wav"

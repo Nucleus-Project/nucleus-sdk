@@ -40,6 +40,8 @@ ITEM.dropSound = {
 	
 }	
 
+ITEM.exRender = true
+
 function ITEM:GetColor()
 
     return self:GetData("color", Color(36, 36, 36))

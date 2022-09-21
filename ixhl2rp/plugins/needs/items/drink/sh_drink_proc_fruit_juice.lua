@@ -42,3 +42,4 @@ ITEM.dropSound = {
 	"nucleus/ui/carton3.wav",
 
 }		
+ITEM.exRender = true

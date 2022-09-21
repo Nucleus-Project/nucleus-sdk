@@ -23,6 +23,7 @@ ITEM.boosts = {
 	intelligence = 3
 
 }
+ITEM.exRender = true
 
 ITEM.spoil = true
 
@@ -30,7 +31,7 @@ ITEM.useSound = "food/drink/coffee.wav"
 
 ITEM.capacity = 280
 
-ITEM.restoreStamina = 25;
+ITEM.restoreStamina = 25
 
 ITEM.dropSound = {
 

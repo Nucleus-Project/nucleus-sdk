@@ -31,6 +31,7 @@ ITEM.boosts = {
 		intelligence = -2
 	
 }
+ITEM.exRender = true
 
 ITEM.capacity = 500
 

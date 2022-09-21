@@ -27,6 +27,9 @@ ITEM.boosts = {
 	
 	intelligence = -2
 }
+
+ITEM.exRender = true
+
 ITEM.spoil = false
 
 ITEM.useSound = "food/drink/whiskey.wav"
