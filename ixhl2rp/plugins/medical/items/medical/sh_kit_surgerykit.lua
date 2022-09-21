@@ -32,6 +32,8 @@ ITEM.healing = {
 
 }
 
+ITEM.exRender = true
+
 
 function ITEM:PopulateTooltip(tooltip)
 

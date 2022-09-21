@@ -27,6 +27,8 @@ ITEM.boosts = {
 
 }
 
+ITEM.exRender = true
+
 if (CLIENT) then
 
 	function ITEM:PaintOver(item, w, h)

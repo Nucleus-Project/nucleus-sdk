@@ -6,7 +6,7 @@ ITEM.description = "Шприц-инжектор с адреналином. Ис�
 
 ITEM.category = "Медицина"
 
-ITEM.model = Model("models/illusion/eftcontainers/morphine.mdl")
+ITEM.model = Model("models/willardnetworks/skills/adrenaline.mdl")
 
 ITEM.useSound = "medecine/adrenal.wav" 
 
@@ -34,5 +34,6 @@ ITEM.healing = {
 
 }
 
+ITEM.exRender = true
 
 

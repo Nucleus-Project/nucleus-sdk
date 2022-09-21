@@ -42,6 +42,8 @@ ITEM.iconCam = {
   
   }
   
+  ITEM.exRender = true
+
 
 function ITEM:PopulateTooltip(tooltip)
 

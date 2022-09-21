@@ -23,3 +23,5 @@ ITEM.healing = {
     painkillers = 15
 
 }
+
+ITEM.exRender = true

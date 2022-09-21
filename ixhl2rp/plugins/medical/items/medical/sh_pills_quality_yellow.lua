@@ -27,6 +27,7 @@ ITEM.boosts = {
 
 }
 
+ITEM.exRender = true
 
 
 if (CLIENT) then

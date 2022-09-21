@@ -23,3 +23,4 @@ ITEM.healing = {
 
 }
 
+ITEM.exRender = true

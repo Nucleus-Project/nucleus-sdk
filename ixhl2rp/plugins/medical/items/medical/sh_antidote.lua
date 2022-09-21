@@ -44,3 +44,5 @@ ITEM.boosts = {
 
 }
 
+ITEM.exRender = true
+

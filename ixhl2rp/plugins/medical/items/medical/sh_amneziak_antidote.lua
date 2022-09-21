@@ -7,6 +7,8 @@ ITEM.category = "Медицина"
 
 ITEM.model = "models/warz/items/syringe.mdl"
 
+ITEM.img = ix.util.GetMaterial("spawnicons/models/willardnetworks/skills/adrenaline_128.png")
+
 ITEM.useSound = "medecine/syringe.wav" 
 
 ITEM.desccolor = Color(205, 218, 33)
@@ -43,3 +45,5 @@ ITEM.iconCam = {
   fov = 1.03
 
 }
+
+ITEM.exRender = true

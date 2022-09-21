@@ -12,6 +12,8 @@ ITEM.useSound = "medecine/bandage.wav"
 
 ITEM.desccolor = Color(93, 109, 126)
 
+ITEM.uses = 2
+
 ITEM.width = 1
 
 ITEM.height = 1
@@ -23,4 +25,5 @@ ITEM.healing = {
 
 }
 
+ITEM.exRender = true
 

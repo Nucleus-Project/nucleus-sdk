@@ -30,6 +30,8 @@ ITEM.healing = {
 
 }
 
+ITEM.exRender = true
+
 
 function ITEM:PopulateTooltip(tooltip)
 		local data = tooltip:AddRow("data")

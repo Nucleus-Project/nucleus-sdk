@@ -12,7 +12,7 @@ ITEM.useSound = "items/medshot4.wav"
 
 ITEM.desccolor = Color(34, 153, 84)
 
-ITEM.uses = 4
+ITEM.uses = 1
 
 ITEM.width = 1
 
@@ -28,3 +28,4 @@ ITEM.healing = {
 
 }
 
+ITEM.exRender = true

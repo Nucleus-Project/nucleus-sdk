@@ -15,13 +15,23 @@ ITEM.desccolor = Color(34, 153, 84)
 
 ITEM.drug = "ozz"
 
-ITEM.drugDel = 10
+ITEM.drugDel = math.Rand(60, 120)
 
-ITEM.damage = 45
+ITEM.isDrug = true
+
+ITEM.addiction = true
+
+ITEM.addictionChance = 30
+
+ITEM.sanity = 40
+
+ITEM.damage = 10
 
 ITEM.width = 1
 
 ITEM.height = 1
+
+ITEM.colorAppendix = {["green"] = "[Наркотик]: Ваш экран будет покрыт визуальными эффектами.\nИгроки смогут определить, находитесь ли Вы состоянии опьянения.", ["blue"] = "[РП]: Данный препарат вызывает паранойю."}
 
 ITEM.boosts = {
 
@@ -34,16 +44,7 @@ ITEM.boosts = {
 
 }
 
+ITEM.exRender = true
 
-function ITEM:PopulateTooltip(tooltip)
-
-    local data = tooltip:AddRow("data")
-		data:SetBackgroundColor(derma.GetColor("Error", tooltip))
-
-        data:SetText("[Наркотик]: Использование предмета наложит на ваш экран визуальные эффекты.")
-
-        data:SizeToContents()
-
-    end
 
 

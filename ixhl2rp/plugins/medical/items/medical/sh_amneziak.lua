@@ -40,3 +40,5 @@ ITEM.iconCam = {
   fov = 1.03
 
 }
+
+ITEM.exRender = true
