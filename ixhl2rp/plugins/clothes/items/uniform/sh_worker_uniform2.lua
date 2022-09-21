@@ -27,3 +27,33 @@ ITEM.bodyGroups = {
     ["Uniform Variant"] = 1
 
 }
+
+
+
+function ITEM:OnEquipped()
+
+    self.player:SetNetVar("Gasmask", true)
+
+    end
+
+    
+
+    function ITEM:OnUnequipped()
+
+    self.player:SetNetVar("Gasmask", false)
+
+    end
+
+    
+
+    
+
+        function ITEM:OnLoadout()
+
+            if (self:GetData("equip")) then
+
+                self.player:SetNetVar("Gasmask", true)
+
+            end
+
+        end

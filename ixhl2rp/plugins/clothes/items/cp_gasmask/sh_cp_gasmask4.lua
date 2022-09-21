@@ -1,9 +1,9 @@
 
-ITEM.name = "Противогаз R:HM/v1"
+ITEM.name = "Противогаз R:HM/i-v2"
 
-ITEM.description = "Укрепленная шлем-маска первого поколения. Спроектированная шлем-маска «Ювенис» для Оперативно-Тактической Армии, списанная отряду ГО."
+ITEM.description = "Модифицированная укрепленная шлем-маска второго поколения. Спроектированная шлем-маска на базе «Ювенис» для Оперативно-Тактической Армии, списанна отряду ГО."
 
-ITEM.model = "models/n7new/metropolice/n7_cp_gasmask5.mdl"
+ITEM.model = "models/n7new/metropolice/n7_cp_gasmask4.mdl"
 
 ITEM.category = "Одежда ГО"
 
@@ -27,22 +27,42 @@ ITEM.isRadio = true
 
 ITEM.bodyGroups = {
 
-	["CP_Head"] = 5,
+	["CP_Head"] = 4,
 
 }
 
-ITEM.channels = {"tac-3", "tac-5"}
+ITEM.channels = {"tac-3", "spec-ops"}
 
 ITEM.desccolor = Color(50, 85, 112)
 
 ITEM.iconCam = {
 
-	pos = Vector(-121.87, 693.62, 216.06),
+  pos = Vector(-635.21, -116.21, 349.24),
 
-	ang = Angle(16.7, 280, 0),
+  ang = Angle(28.13, 370.4, 0),
 
-	fov = 1.07
+  fov = 1.09
+  
+}
 
-  }
   
   
+  
+
+
+if (CLIENT) then
+
+	function ITEM:PopulateTooltip(tooltip)
+
+		local panel = tooltip:AddRowAfter("name", "armor")
+		
+		panel:SetBackgroundColor(derma.GetColor("Warning", tooltip))
+
+		panel:SetText(L("rhmiV1"))
+
+		panel:SizeToContents()
+
+
+	end
+
+end

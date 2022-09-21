@@ -6,13 +6,9 @@ ITEM.description = "Выглядит неряшливо."
 
 ITEM.model = "models/wn7new/citizens/torso_alyx_citizen1.mdl"
 
-ITEM.price = 15;
-
-ITEM.flag = "a"
+ITEM.price = 15
 
 ITEM.charCreation = true
-
-ITEM.outfitRestore = "torso"
 
 ITEM.bodyGroups = {
 

@@ -1,4 +1,4 @@
-ITEM.base = "base_shoes";
+ITEM.base = "base_shoes"
 
 ITEM.flag = "a"
 
@@ -9,8 +9,6 @@ ITEM.description = "Пара чёрных туфель. Для повседне�
 ITEM.category = "Одежда"
 
 ITEM.model = "models/wn7new/citizens/shoes_loyalist_black.mdl"
-
-ITEM.outfitRestore = "shoes"
 
 ITEM.width = 1
 

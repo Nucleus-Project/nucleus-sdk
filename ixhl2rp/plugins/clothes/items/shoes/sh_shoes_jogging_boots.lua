@@ -1,4 +1,4 @@
-ITEM.base = "base_shoes";
+ITEM.base = "base_shoes"
 
 ITEM.flag = "a"
 
@@ -9,8 +9,6 @@ ITEM.description = "Пара кроссовок. Созданы для длит�
 ITEM.category = "Одежда"
 
 ITEM.model = "models/wn7new/citizens/shoes_military_brown.mdl"
-
-ITEM.outfitRestore = "shoes"
 
 ITEM.width = 1
 

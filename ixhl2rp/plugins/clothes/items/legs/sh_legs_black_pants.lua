@@ -1,4 +1,4 @@
-ITEM.base = "base_legs";
+ITEM.base = "base_legs"
 
 ITEM.name = "Черные штаны"
 
@@ -11,8 +11,6 @@ ITEM.model = "models/wn7new/citizens/legs_citizen1_black.mdl"
 ITEM.width = 1
 
 ITEM.height = 1
-
-ITEM.outfitRestore = "legs"
 
 ITEM.flag = "a"
 

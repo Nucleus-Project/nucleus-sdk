@@ -3,15 +3,13 @@ ITEM.name = "Униформа ГО: Регулярная"
 
 ITEM.description = "Стандартная униформа регулярного подразделения Гражданской Обороны."
 
-ITEM.desccolor = Color(159, 159, 159)
+ITEM.desccolor = Color(125, 125, 125)
 
 ITEM.category = "Одежда ГО"
 
 ITEM.model = Model("models/n7new/metropolice/n7_cp_body.mdl")
 
 ITEM.replacementString = "wn7new/metropolice/"
-
-ITEM.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
 
 ITEM.width = 2
 

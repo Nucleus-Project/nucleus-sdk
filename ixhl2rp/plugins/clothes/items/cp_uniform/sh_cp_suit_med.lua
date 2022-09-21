@@ -3,7 +3,7 @@ ITEM.name = "Униформа ГО: Медицинская"
 
 ITEM.description = "Стандартная униформа медицинского подразделения Гражданской Обороны."
 
-ITEM.desccolor = Color(179, 33, 33)
+ITEM.desccolor = Color(10, 11, 120)
 
 ITEM.category = "Одежда ГО"
 
@@ -14,8 +14,6 @@ ITEM.skin = 1
 ITEM.replacementString = "wn7new/metropolice/"
 
 ITEM.outfitRestore = "CP_Body"
-
-ITEM.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
 
 ITEM.width = 2
 

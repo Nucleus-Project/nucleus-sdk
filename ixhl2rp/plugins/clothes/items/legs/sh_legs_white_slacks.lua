@@ -1,4 +1,4 @@
-ITEM.base = "base_legs";
+ITEM.base = "base_legs"
 
 ITEM.flag = "a"
 
@@ -11,8 +11,6 @@ ITEM.category = "Одежда"
 ITEM.model = "models/wn7new/citizens/legs_citizen_loyalist2.mdl"
 
 ITEM.width = 1
-
-ITEM.outfitRestore = "legs"
 
 ITEM.height = 1
 

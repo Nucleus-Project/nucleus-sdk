@@ -15,8 +15,6 @@ ITEM.replacementString = "wn7new/metropolice/"
 
 ITEM.outfitRestore = "CP_Body"
 
-ITEM.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
-
 ITEM.width = 2
 
 ITEM.height = 2

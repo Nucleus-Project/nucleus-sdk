@@ -1,14 +1,16 @@
-ITEM.base = "base_backpack";
+ITEM.base = "base_backpack"
 
 ITEM.name = "Большая сумка"
 
 ITEM.description = "Рюкзак с эмблемой Альянса на нём."
 
+ITEM.category = "Сумки"
+
 ITEM.invWidth = 4
 
 ITEM.invHeight = 4
 
-ITEM.outfitCategory = "bag";
+ITEM.outfitCategory = "bag"
 
 ITEM.isBag = true
 

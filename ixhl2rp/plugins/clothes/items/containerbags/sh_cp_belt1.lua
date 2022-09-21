@@ -1,4 +1,4 @@
-ITEM.base = "base_legs";
+ITEM.base = "base_legs"
 
 ITEM.name = "Нательные подсумки"
 

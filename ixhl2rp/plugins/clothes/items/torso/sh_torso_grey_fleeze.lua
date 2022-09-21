@@ -12,12 +12,7 @@ ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.flag = "a"
-
 ITEM.charCreation = true
-
-ITEM.outfitRestore = "torso"
-
 
 
 ITEM.bodyGroups = {

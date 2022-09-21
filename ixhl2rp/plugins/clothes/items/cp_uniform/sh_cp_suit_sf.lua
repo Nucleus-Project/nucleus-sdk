@@ -3,7 +3,7 @@ ITEM.name = "Униформа ГО: Штурмовая"
 
 ITEM.description = "Модифицированная униформа специального назначения Гражданской Обороны."
 
-ITEM.desccolor = Color(70, 70, 70)
+ITEM.desccolor = Color(81, 87, 65)
 
 ITEM.category = "Одежда ГО"
 
@@ -14,8 +14,6 @@ ITEM.skin = 3
 ITEM.replacementString = "wn7new/metropolice/"
 
 ITEM.outfitRestore = "CP_Body"
-
-ITEM.runSounds = {[0] = "NPC_MetroPolice.RunFootstepLeft", [1] = "NPC_MetroPolice.RunFootstepRight"}
 
 ITEM.width = 2
 

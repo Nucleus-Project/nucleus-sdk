@@ -5,5 +5,8 @@ ITEM.category = "Вортигонт"
 ITEM.width = 1
 ITEM.height = 1
 ITEM.description = "Специальный ключ для открытия оков Вортигонтов."
-ITEM.category = "Прочее"
+ITEM.category = "Вортигонт"
 ITEM.desccolor = Color(43, 163, 45)
+
+
+

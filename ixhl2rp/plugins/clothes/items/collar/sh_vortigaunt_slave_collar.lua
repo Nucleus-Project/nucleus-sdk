@@ -11,7 +11,7 @@ ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.factionList = {FACTION_VORT}
+ITEM.factionList = {FACTION_VORTIGAUNT}
 
 ITEM.KeepOnDeath = true
 

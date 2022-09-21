@@ -36,3 +36,22 @@ ITEM.channels = {"tac-3", "tac-5"}
 ITEM.desccolor = Color(50, 85, 112)
 
 
+
+
+if (CLIENT) then
+
+	function ITEM:PopulateTooltip(tooltip)
+
+		local panel = tooltip:AddRowAfter("name", "armor")
+		
+		panel:SetBackgroundColor(derma.GetColor("Warning", tooltip))
+
+		panel:SetText(L("sgmV1"))
+
+		panel:SizeToContents()
+
+
+	end
+
+end
+

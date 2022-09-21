@@ -30,3 +30,4 @@ ITEM.bodyGroups = {
 	["hands"] = 7 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 
 }
+

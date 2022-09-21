@@ -1,4 +1,4 @@
-ITEM.base = "base_legs";
+ITEM.base = "base_legs"
 
 
 ITEM.name = "Спусковая троссовая система"
@@ -18,10 +18,6 @@ ITEM.height = 1
 ITEM.outfitRestore = "CP_Belt"
 
 ITEM.flag = "a"
-
-ITEM.isCP = true
-
-ITEM.cpBelt = true
 
 ITEM.isCP = true
 
@@ -51,3 +47,4 @@ ITEM.dropSound = {
     "nucleus/ui/toolmove3.wav",
 
  }
+

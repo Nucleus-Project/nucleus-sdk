@@ -1,8 +1,8 @@
 ITEM.base = "base_torso"
 
-ITEM.name = "Белый пиджак"
+ITEM.name = "Белый костюм"
 
-ITEM.description = "Белый повседневный пиджак для колаборационистов."
+ITEM.description = "Белый повседневный костюм для колаборационистов."
 
 ITEM.category = "Одежда"
 
@@ -11,10 +11,6 @@ ITEM.model = "models/wn7new/citizens/torso_loyalist_6.mdl"
 ITEM.width = 1
 
 ITEM.height = 1
-
-ITEM.flag = "a"
-
-ITEM.outfitRestore = "torso"
 
 
 ITEM.bodyGroups = {

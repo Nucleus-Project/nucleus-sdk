@@ -1,4 +1,4 @@
-ITEM.base = "base_shoes";
+ITEM.base = "base_shoes"
 
 ITEM.flag = "a"
 
@@ -22,6 +22,7 @@ ITEM.isCP = true
 
 ITEM.runSounds = {[0] = "NPC_Citizen.RunFootstepLeft", [1] = "NPC_Citizen.RunFootstepRight"}
 
+-- ITEM.walkSounds = {[0] = "NPC_Citizen.RunFootstepLeft", [1] = "NPC_Citizen.RunFootstepRight"}
 
 
 ITEM.bodyGroups = {

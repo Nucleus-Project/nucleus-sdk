@@ -1,6 +1,6 @@
 ITEM.base = "base_torso"
 
-ITEM.name = "Формальный черный пиджак"
+ITEM.name = "Формальный черный костюм"
 
 ITEM.description = "Очень качественный черный костюм. Выглядит просто волшебно!"
 
@@ -15,8 +15,6 @@ ITEM.height = 1
 ITEM.flag = "a"
 
 ITEM.charCreation = true
-
-ITEM.outfitRestore = "torso"
 
 ITEM.bodyGroups = {
 

@@ -14,8 +14,6 @@ ITEM.height = 1
 
 ITEM.flag = "a"
 
-ITEM.outfitRestore = "torso"
-
 ITEM.charCreation = true
 
 

@@ -11,7 +11,7 @@ ITEM.width = 1
 
 ITEM.height = 1
 
-ITEM.factionList = {FACTION_VORT}
+ITEM.factionList = {FACTION_VORTIGAUNT}
 
 ITEM.outfitRestore = "collar"
 
@@ -24,4 +24,3 @@ ITEM.desccolor = Color(66, 165, 61)
 ITEM.bodyGroups = {
     ["collar"] = 1 -- The actual name of the bodypart, then number in that bodypart (model-wise)
 }
-

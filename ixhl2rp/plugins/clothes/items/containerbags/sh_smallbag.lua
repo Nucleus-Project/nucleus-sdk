@@ -1,6 +1,8 @@
-ITEM.base = "base_satchel";
+ITEM.base = "base_satchel"
 
 ITEM.name = "Маленькая сумка"
+
+ITEM.category = "Сумки"
 
 ITEM.description = "Маленькая сумка на бедре."
 
@@ -8,7 +10,7 @@ ITEM.invWidth = 3
 
 ITEM.invHeight = 4
 
-ITEM.outfitCategory = "satchel";
+ITEM.outfitCategory = "satchel"
 
 ITEM.isBag = true
 
