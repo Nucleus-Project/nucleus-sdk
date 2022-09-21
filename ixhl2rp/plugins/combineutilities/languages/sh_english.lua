@@ -117,6 +117,32 @@ LANGUAGE = {
 
 	shouldBeRestrained = "Your target should be restrained or unconscious!",
 
+	notCombine = "You are not the Combine!",
 
+	noCameras = "There is no Combine camera with that ID!",
+
+	alreadyDisabled = "That camera is already disabled!",
+
+	disablingCamera = "Disabling C-i%s ...",
+
+    alreadyEnabled = "That camera is already enabled!",
+
+	enablingCamera = "Enabling C-i%s ...",
+
+    bioAlreadyEnabled = "Your biosignal is already enabled!",
+
+	bioAlreadyDisabled = "Your biosignal is already disabled!",
+
+	signalAlreadyEnabled = "%s biosignal is already enabled!",
+
+	signalAlreadyDisabled = "%s biosignal is already disabled!",
+
+	bioNotCombine = "%s is not the Combine!",
+	
+    alreadyHasCid = "%s already has CID tags!",
+
+	alreadyHasNoCid = "%s already has no CID tags!",
+
+    hasNoBioSignal = "Note: Your character currently has no biosignal.",
 }
 

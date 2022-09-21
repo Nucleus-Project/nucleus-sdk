@@ -160,5 +160,36 @@ LANGUAGE = {
 	hasNoUpdate = "Нет назначенных обновлений",
 
 
+	notCombine = "Вы не сотрудник ГО!",
+
+	noCameras = "С таким ID камер нет!",
+
+	alreadyDisabled = "Эта камера уже отключена!",
+
+	disablingCamera = "Отключаем C-i%s ...",
+
+    alreadyEnabled = "Эта камера уже включена!",
+
+	enablingCamera = "Включаем C-i%s ...",
+
+    bioAlreadyEnabled = "Ваш биосигнал уже включен!",
+
+	bioAlreadyDisabled = "Ваш биосигнал уже отключен!",
+
+	signalAlreadyEnabled = "%s - биосигнал уже включен!",
+
+	signalAlreadyDisabled = "%s - биосигнал уже отключен!",
+
+	bioNotCombine = "%s не сотрудник ГО!",
+	
+    alreadyHasCid = "%s уже имеет ID!",
+
+	alreadyHasNoCid = "%s уже не имеет ID!",
+
+    hasNoBioSignal = "У Вашего персонажа нету биосигнала.",
+
+
+
+
 }
 
