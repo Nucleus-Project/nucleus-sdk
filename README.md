@@ -2,7 +2,8 @@
 
 ## <:: ATN: !/ Operation Source to work. \\ 09/07/2022
 
-###### Integrated base for localization, fixing or adding new stuff.
+###### The source code of most  items and localization (LANGUAGES) folders. Open source created for players that want make item balance or fix translate mistakes.
+
 
 ######  People can easily make they own items or remake them, change description/name. It is weak version, not all items or 'language' files included. (lol)
 
