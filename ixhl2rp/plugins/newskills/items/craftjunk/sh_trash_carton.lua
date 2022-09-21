@@ -4,7 +4,7 @@ ITEM.name = "Упаковка из-под молока"
 
 ITEM.description = "Пустая упаковка из-под молока."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 

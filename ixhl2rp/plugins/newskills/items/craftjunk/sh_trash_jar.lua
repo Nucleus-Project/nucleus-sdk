@@ -4,7 +4,7 @@ ITEM.name = "Банка"
 
 ITEM.description = "Пустая пластиковая банка со сломанной крышкой. Бесполезный мусор."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 

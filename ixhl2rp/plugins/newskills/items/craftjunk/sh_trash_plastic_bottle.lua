@@ -4,7 +4,7 @@ ITEM.name = "Пластиковая бутылка"
 
 ITEM.description = "Пустая пластиковая бутылка и крышка."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 

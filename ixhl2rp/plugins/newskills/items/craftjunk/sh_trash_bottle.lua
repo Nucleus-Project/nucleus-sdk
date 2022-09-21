@@ -6,7 +6,7 @@ ITEM.description = "Пустая стеклянная бутылка."
 
 ITEM.model = "models/mosi/fallout4/props/junk/bottle03.mdl"
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.emitsound = "physics/glass/glass_bottle_break2.wav"
 

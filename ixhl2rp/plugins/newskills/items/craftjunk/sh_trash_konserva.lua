@@ -6,7 +6,7 @@ ITEM.description = "Пустая жестяная банка из-под кон�
 
 ITEM.model = "models/mosi/fallout4/props/junk/tincan01.mdl"
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.desccolor = Color(94, 94, 94)
 

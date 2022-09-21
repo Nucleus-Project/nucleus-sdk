@@ -18,12 +18,8 @@ ITEM.height = 1
 
 ITEM.description = "Набор для розжига костра, небольшая горелка и немного растопки."
 
-ITEM.category = "Прочее"
+ITEM.category = "Инструменты"
 
 ITEM.desccolor = Color(95, 153, 186)
-
-
-
-
 
 

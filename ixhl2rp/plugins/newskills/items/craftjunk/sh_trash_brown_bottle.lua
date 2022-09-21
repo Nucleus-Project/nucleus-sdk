@@ -4,7 +4,7 @@ ITEM.name = "Пустая бутылка"
 
 ITEM.description = "Коричневая пустая бутылка."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 

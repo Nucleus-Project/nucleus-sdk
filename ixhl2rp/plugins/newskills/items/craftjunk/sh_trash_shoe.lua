@@ -4,7 +4,7 @@ ITEM.name = "Ботинок"
 
 ITEM.description = "Чей-то навечно утерянный ботинок."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 

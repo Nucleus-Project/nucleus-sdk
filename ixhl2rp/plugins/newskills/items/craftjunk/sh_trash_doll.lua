@@ -4,7 +4,7 @@ ITEM.name = "Кукла"
 
 ITEM.description = "Старая игрушечная кукла. Выглядит жутковато."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 

@@ -4,7 +4,7 @@ ITEM.name = "Деревянная игрушка"
 
 ITEM.description = "Деревянная деталь игрушки."
 
-ITEM.category = "Мусор"
+ITEM.category = "Хлам"
 
 ITEM.width = 1
 
