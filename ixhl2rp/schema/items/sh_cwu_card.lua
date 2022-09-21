@@ -1,6 +1,6 @@
 
 
-ITEM.name = "Карта доступа ГРО"
+ITEM.name = "Карта доступа СР"
 ITEM.skin = 2
 ITEM.model = "models/wn7new/props/n7_cid_card_amogus.mdl"
 ITEM.width = 1
@@ -12,9 +12,3 @@ fov = 4.2887502016879,
 }
 ITEM.description = "Синяя карта доступа к замкам Городского Рабочего Объединения."
 ITEM.desccolor = Color(39, 109, 204)
-
-
-
-
-
-

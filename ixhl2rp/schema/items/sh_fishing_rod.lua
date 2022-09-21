@@ -1,6 +1,7 @@
 
 ITEM.name = "Удочка"
 ITEM.description = "Самодельная удочка из палки, с катушкой и леской."
+ITEM.category = "Прочее"
 ITEM.model = "models/mosi/fallout4/props/junk/fishingrod.mdl"
 ITEM.width = 1
 ITEM.height = 4
@@ -11,5 +12,3 @@ ITEM.iconCam = {
 }
 ITEM.desccolor = Color(128, 64, 0)
 ITEM.emitsound = "ambient/water/water_splash2.wav"
-
-	

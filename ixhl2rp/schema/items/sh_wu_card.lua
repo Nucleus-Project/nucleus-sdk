@@ -8,7 +8,7 @@ ITEM.description = "Биометрическая, пластиковая кар�
 
 ITEM.price = 250
 
-ITEM.category = "Разное"
+ITEM.category = "Союз Вселенных"
 
 ITEM.weight = 0.1
 
